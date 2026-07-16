@@ -1,0 +1,21 @@
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Temp / backup files
+*.tmp
+*.bak
+*.log
+
+# Large raw data (keep only sample data in repo)
+/data/raw/
+*.csv.orig
